@@ -62,3 +62,13 @@ html {
   background-color: #333;
   color: #fff;
 }
+
+.cards dt {
+  display: inline-block;
+  width: 6em;
+  font-style: italic;
+}
+
+.cards div {
+  text-align: center;
+}
